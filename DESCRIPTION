@@ -1,13 +1,14 @@
 Package: ABitBored
 Title: Kill the time with some fun games
 Version: 0.0.0.9000
-Authors@R: 
-    person("Siard", "Groot", role = student
-Description: This package contains a few FUNctions
+Authors@R: person("Siard", "Groot",
+                  email = "siard@example.com",
+                  role = c("aut", "cre"))
+Description: A collection of a few interactive FUNctions which
+    are playable in the R console. The package includes blackjack, a slotmachine,
+    two player tic tac toe and a magic R ball. Enjoy these games if you find
+    yourself with some spare time.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 8.0.0
-Suggests: 
-    testthat (>= 3.0.0)
-Config/testthat/edition: 3

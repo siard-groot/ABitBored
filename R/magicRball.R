@@ -95,6 +95,5 @@ cat(ball,"\n")
   }
   else {
     cat("The text dissapears as you exit the function, the eluded knowlege is forever lost to time\n")
-    break
   }
 }

@@ -9,8 +9,8 @@
 #' @export
 #'
 #' @examples
-#' \dontrun {
-#' slotmachine.R
+#' \dontrun{
+#' slotmachine()
 #' }
 slotmachine <- function() {
   # Setup
@@ -76,5 +76,5 @@ slotmachine <- function() {
       cat("You exit the casino with your pockets as full and as empty as when you entered\n")
       break
   }
-  }
+ }
 }

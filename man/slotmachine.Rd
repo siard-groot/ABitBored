@@ -16,7 +16,7 @@ is 100 points and can be increased up to five fold per spin.
 Run the function without input to play.
 }
 \examples{
-\dontrun {
-slotmachine.R
+\dontrun{
+slotmachine()
 }
 }
