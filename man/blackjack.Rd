@@ -7,11 +7,12 @@
 blackjack()
 }
 \value{
-Fun
+Called for fun. No return value.
 }
 \description{
 A blackjack game with the most important features
-including betting, ace conversion and blackjack
+including betting, ace conversion and blackjack.
+Run the function without any inputs and follow the steps in the console.
 }
 \examples{
 \dontrun{

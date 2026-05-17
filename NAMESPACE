@@ -2,4 +2,5 @@
 
 export(blackjack)
 export(magicRball)
+export(slotmachine)
 export(tictactoe)

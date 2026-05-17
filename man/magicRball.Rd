@@ -7,10 +7,12 @@
 magicRball()
 }
 \value{
-An answer to your question
+Called for fun. No return value.
 }
 \description{
-If it is wisdom you seek, this function will illuminate your path.
+This magic R ball will provides wisdom to anyone who seeks it.
+It has numerous data science inspired responses to any question.
+Run the function without any inputs and follow the steps in the console.
 }
 \examples{
 \dontrun{

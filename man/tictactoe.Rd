@@ -6,8 +6,14 @@
 \usage{
 tictactoe()
 }
+\value{
+Called for fun. No return value.
+}
 \description{
-A game of tic tac toe for two players.
+A multiplayer game of Tic Tac Toe. The function automatically alternates
+between turns and declares a winner when a win condition is met.
+Run the function without input and follow the steps in the console,
+alternating between players.
 }
 \examples{
 \dontrun{
